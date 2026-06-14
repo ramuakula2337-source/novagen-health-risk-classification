@@ -80,7 +80,7 @@ Raw Data → EDA → Preprocessing → Feature Engineering → Model Training �
 ---
 
 ## How to Run
-//bash
+```bash
 # 1. Clone the repository
 git clone https://github.com/ramuakula2337-source/novagen-health-risk-classification
 
